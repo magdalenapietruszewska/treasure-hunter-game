@@ -1,13 +1,76 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.app {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1 {
+  text-align: center;
+  padding: 10vh 0 1vh;
+}
+
+.gameBoard {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  width: 260px;
+  flex-wrap: wrap;
+}
+
+.field {
+  height: 40px;
+  width: 50px;
+  border: 1px solid black;
+  cursor: pointer;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 25px;
+}
+
+.field:hover {
+  background-color: orange;
+  border-radius: 10px;
+}
+
+.select {
+  background-color: firebrick;
+}
+
+p {
+  text-align: center;
+  padding: 5vh 0;
+}
+
+.uncover {
+  background-color: yellow;
+}
+
+.treasure {
+  background-color: indigo;
+}
+
+.info {
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding-top: 10px;
+}
+
+.specialInfo {
+  color: red;
+  font-size: 35px;
 }
