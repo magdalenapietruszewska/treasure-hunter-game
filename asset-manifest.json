@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/treasure-hunter-game/static/css/main.0574b56f.chunk.css",
+    "main.js": "/treasure-hunter-game/static/js/main.7fdf26f9.chunk.js",
+    "main.js.map": "/treasure-hunter-game/static/js/main.7fdf26f9.chunk.js.map",
+    "runtime-main.js": "/treasure-hunter-game/static/js/runtime-main.e5486b5a.js",
+    "runtime-main.js.map": "/treasure-hunter-game/static/js/runtime-main.e5486b5a.js.map",
+    "static/js/2.4fbf7f6f.chunk.js": "/treasure-hunter-game/static/js/2.4fbf7f6f.chunk.js",
+    "static/js/2.4fbf7f6f.chunk.js.map": "/treasure-hunter-game/static/js/2.4fbf7f6f.chunk.js.map",
+    "static/js/3.39675d94.chunk.js": "/treasure-hunter-game/static/js/3.39675d94.chunk.js",
+    "static/js/3.39675d94.chunk.js.map": "/treasure-hunter-game/static/js/3.39675d94.chunk.js.map",
+    "index.html": "/treasure-hunter-game/index.html",
+    "static/css/main.0574b56f.chunk.css.map": "/treasure-hunter-game/static/css/main.0574b56f.chunk.css.map",
+    "static/js/2.4fbf7f6f.chunk.js.LICENSE.txt": "/treasure-hunter-game/static/js/2.4fbf7f6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5486b5a.js",
+    "static/js/2.4fbf7f6f.chunk.js",
+    "static/css/main.0574b56f.chunk.css",
+    "static/js/main.7fdf26f9.chunk.js"
+  ]
+}
