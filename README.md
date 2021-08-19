@@ -2,6 +2,7 @@
 
 ## About Project 
 Web browser game.
+I use Redux first time!
 
 ### Game rules: 
 - The board is of size 5x5 
